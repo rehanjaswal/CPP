@@ -12,5 +12,5 @@ int main() {
     cout << n << " * 7 = " << n * 7 << endl;
     cout << n << " * 8 = " << n * 8 << endl;
     cout << n << " * 9 = " << n * 9 << endl;
-    cout << n << " * 1o = " << n * 10 << endl;
+    cout << n << " * 10 = " << n * 10 << endl;
 }
